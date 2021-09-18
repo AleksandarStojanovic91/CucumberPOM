@@ -10,4 +10,10 @@
         </classes>
     </test>
 
+    <test name="Login steps2">
+        <classes>
+            <class name="runners.GeneralRunner"/>
+        </classes>
+    </test>
+
 </suite>
