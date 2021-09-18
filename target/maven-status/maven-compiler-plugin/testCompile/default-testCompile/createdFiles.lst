@@ -1,0 +1,4 @@
+tests\CucumberSteps.class
+pages\ProductsPage.class
+runners\GeneralRunner.class
+pages\LoginPage.class
